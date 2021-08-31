@@ -1,3 +1,3 @@
-# hello-world
-Just another repository
-This is just me playing me around and learning Git and GitHub
+# hello-shrijit
+This is prathmesh
+playing with GIT hub
